@@ -1,1 +1,1 @@
-window.
+window.BASE64 = "";
